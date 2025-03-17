@@ -59,7 +59,6 @@ AI Tools:
 GitHub Copilot / Tabnine – Faster Vue.js development
 ChatGPT / Bard – Generating Vue.js components
 DeepCode – AI-powered Vue.js debugging
-/bin/bash: line 1: wq: command not found
 
 6. Mobile Developers (React Native)
 Challenges:
