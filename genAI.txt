@@ -6,10 +6,8 @@ Understanding legacy codebases
 Generating documentation
 
 AI Tools:
-GitHub Copilot / CodeWhisperer – AI-powered code completion
-Codeium / Tabnine – Alternative AI code assistants
+GitHub Copilot – AI-powered code completion
 CodiumAI – AI for test generation and bug detection
-ChatGPT / Bard – Explaining complex code, refactoring suggestions
 AskCodi – Quick code snippets for different languages
 
 2. RoR (Ruby on Rails) Engineers
@@ -19,7 +17,6 @@ Writing test cases and debugging
 Handling ActiveRecord queries and performance optimization
 
 AI Tools:
-ChatGPT + OpenAI Playground – Generating RoR snippets
 CodiumAI – Auto-generating RSpec tests
 DeepCode – AI-powered static code analysis for Ruby
 AI-driven DevOps (GitHub Actions + AI suggestions) – Automating CI/CD workflows
@@ -31,10 +28,9 @@ Maintaining and optimizing legacy enterprise applications
 Debugging complex ASP.NET applications
 
 AI Tools:
-GitHub Copilot / CodeWhisperer – AI-assisted C# coding
+GitHub Copilot AI-assisted C# coding
 Visual Studio IntelliCode – AI-powered autocomplete for .NET
 CodiumAI – Generating test cases for .NET applications
-Tabnine – Predictive coding suggestions
 
 4. Python Engineers
 Challenges:
@@ -44,7 +40,6 @@ Handling large datasets in AI/ML projects
 
 AI Tools:
 GitHub Copilot / CodeWhisperer – Auto-code completion for Python
-ChatGPT / Bard – Writing complex scripts faster
 PyCharm Code Assistant – AI-driven debugging and suggestions
 PandasAI – AI-powered data analysis in Pandas
 Jupyter AI Assistant – AI-enhanced notebook interactions
@@ -57,7 +52,6 @@ Debugging and optimizing Vue.js apps
 
 AI Tools:
 GitHub Copilot / Tabnine – Faster Vue.js development
-ChatGPT / Bard – Generating Vue.js components
 DeepCode – AI-powered Vue.js debugging
 
 6. Mobile Developers (React Native)
@@ -70,7 +64,7 @@ AI Tools:
 Expo AI – Automates mobile app deployment
 GitHub Copilot / Codeium – Code assistance for React Native
 AI-driven UI generators (Figma to React Native) – Convert UI designs into functional components
-ChatGPT / Bard – Quick troubleshooting
+
 
 7. Customer Success
 Challenges:
@@ -94,7 +88,6 @@ AI Tools:
 HireEZ / Manatal – AI-powered resume screening
 ChatGPT for HR – Writing JD templates, onboarding materials
 Recruitee AI – AI-driven talent acquisition
-ChatGPT + GPT for HR emails – Personalized communication
 
 9. Product & Project Managers
 Challenges:
@@ -105,7 +98,6 @@ Aligning teams and stakeholders
 AI Tools:
 Notion AI – Automated project planning
 ClickUp AI – Smart task prioritization
-ChatGPT + Bard – Generating PRDs, meeting notes
 Jira AI Assistant – Automating backlog management
 
 10. UI/UX Designers
